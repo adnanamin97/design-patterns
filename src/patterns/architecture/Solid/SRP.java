@@ -9,6 +9,9 @@ import java.util.List;
  * A class should have a single responsibility and shouldn't do anything else
  * this class only has one responsibility which is to add entry and remove entry
  * for example if we wanted a method which saves entries as a file we would need a new class
+ *
+ *
+ * this is incomplete, will be updated in later PRs
  */
 public class SRP {
 
